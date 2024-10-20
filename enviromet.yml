@@ -1,0 +1,7 @@
+name: naive_bayes_wine
+dependencies:
+  - python=3.8
+  - jupyter
+  - scikit-learn
+  - matplotlib
+  - numpy
