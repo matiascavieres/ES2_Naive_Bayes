@@ -53,4 +53,4 @@ Si deseas contribuir, crea un fork del repositorio, realiza tus cambios y envía
 Este proyecto está bajo la licencia MIT.
 
 ## Contacto
-Matías Francisco Cavieres Belmar
+[Matías Francisco Cavieres Belmar](matcavieres@gmail.com)_
